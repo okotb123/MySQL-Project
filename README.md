@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Deep learning**
 
-- 👯 I’m looking to collaborate on **Data Analysis Projects**
+- 👯 I’m looking to collaborate on **Data Analysis Projects** 
 
 - 💬 Ask me about **Excel, MySQL, Tableau, PowerBi, Python**
 
